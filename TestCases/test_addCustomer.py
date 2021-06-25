@@ -5,7 +5,7 @@ from utilities.customlogger import LogGen
 from pageObjects.AddCustomerPage import AddCustomer
 from pageObjects.LoginPage import LoginPage
 import random,pytest
-from selenium import webdriver
+
 
 class Test_003_Addcustomer:
     baseURL = ReadConfig.getApplicationURL()
