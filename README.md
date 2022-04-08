@@ -52,9 +52,4 @@ rem pytest -v -s -m "regression" --html=./Reports/reports.html TestCases/ --brow
 git init
 git remote add origin git@github.com:harishwarc/HybridFramework.git
 
-Mistakes:
-1.give proper driver path for respective browsers
-2.do not close the browser before capturing screenshot
-3.Should not contain empty spaces in excel sheet/don't add borders for empty rows
 
-NOTE: Log files are not being captured in this framework (Working on the fix)
