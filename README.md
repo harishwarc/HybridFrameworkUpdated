@@ -1,5 +1,5 @@
 # HybridFrameworkUpdated
-This is the hybrid framework of pycharm with html report
+This is the hybrid framework of python with html report
 
 Steps for creation:
 Create new prject - "Hybrid framework"
